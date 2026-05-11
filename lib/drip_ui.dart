@@ -3,6 +3,7 @@ library drip_ui;
 export 'src/widgets/buttons/drip_button.dart';
 export 'src/core/drip_colors.dart';
 export 'src/widgets/inputs/drip_text_field.dart';
+export 'src/widgets/products/drip_product_list_item.dart';
 export 'src/widgets/drip_logo_container.dart';
 export 'src/widgets/inputs/drip_password_field.dart';
 export 'src/widgets/inputs/drip_phone_field.dart';
